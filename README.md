@@ -11,6 +11,6 @@ This project is an Admin Dashboard built using HTML and CSS, with a focus on mod
 - **HTML5**
 - **CSS3** (Grid & Flexbox)
 
-[You can view it here!](https://rui-23.github.io/Admin-Dashboard/)
+[You can view it here!](https://kiburger.github.io/Admin-Dashboard/)
 
 Feel free to clone or fork this project and customize it for your own use!
